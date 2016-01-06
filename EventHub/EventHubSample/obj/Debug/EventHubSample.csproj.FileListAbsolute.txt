@@ -1,0 +1,21 @@
+C:\Work\Lab\Azure\EventHub\EventHubSample\EventHubSample\bin\Debug\EventHubSample.exe.config
+C:\Work\Lab\Azure\EventHub\EventHubSample\EventHubSample\bin\Debug\EventHubSample.exe
+C:\Work\Lab\Azure\EventHub\EventHubSample\EventHubSample\bin\Debug\EventHubSample.pdb
+C:\Work\Lab\Azure\EventHub\EventHubSample\EventHubSample\bin\Debug\Microsoft.ServiceBus.dll
+C:\Work\Lab\Azure\EventHub\EventHubSample\EventHubSample\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Work\Lab\Azure\EventHub\EventHubSample\EventHubSample\bin\Debug\Microsoft.ServiceBus.xml
+C:\Work\Lab\Azure\EventHub\EventHubSample\EventHubSample\obj\Debug\EventHubSample.csprojResolveAssemblyReference.cache
+C:\Work\Lab\Azure\EventHub\EventHubSample\EventHubSample\obj\Debug\EventHubSample.exe
+C:\Work\Lab\Azure\EventHub\EventHubSample\EventHubSample\obj\Debug\EventHubSample.pdb
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\EventHub\EventHubSample\EventHubSample\bin\Debug\EventHubSample.exe.config
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\EventHub\EventHubSample\EventHubSample\obj\Debug\EventHubSample.exe
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\EventHub\EventHubSample\EventHubSample\obj\Debug\EventHubSample.pdb
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\EventHub\EventHubSample\EventHubSample\bin\Debug\EventHubSample.exe
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\EventHub\EventHubSample\EventHubSample\bin\Debug\EventHubSample.pdb
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\EventHub\EventHubSample\EventHubSample\bin\Debug\Microsoft.ServiceBus.dll
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\EventHub\EventHubSample\EventHubSample\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\EventHub\EventHubSample\EventHubSample\bin\Debug\Microsoft.ServiceBus.xml
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\EventHub\EventHubSample\EventHubSample\obj\Debug\EventHubSample.csprojResolveAssemblyReference.cache
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\EventHub\EventHubSample\bin\Debug\EventHubSample.exe.config
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\EventHub\EventHubSample\obj\Debug\EventHubSample.exe
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\EventHub\EventHubSample\obj\Debug\EventHubSample.pdb

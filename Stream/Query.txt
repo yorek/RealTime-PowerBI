@@ -1,0 +1,9 @@
+SELECT
+    Name, SUM(Amount) AS TotalAmount, System.Timestamp AS WindowEnd
+INTO
+    PowerBI
+FROM
+    SoldProductsStream TIMESTAMP BY SoldDate
+GROUP BY
+    Name,
+    TumblingWindow(second,30)

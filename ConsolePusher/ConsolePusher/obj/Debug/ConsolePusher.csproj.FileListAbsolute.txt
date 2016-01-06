@@ -1,0 +1,22 @@
+C:\Work\Lab\PowerBI\ConsolePusher\ConsolePusher\bin\Debug\ConsolePusher.exe.config
+C:\Work\Lab\PowerBI\ConsolePusher\ConsolePusher\bin\Debug\ConsolePusher.exe
+C:\Work\Lab\PowerBI\ConsolePusher\ConsolePusher\bin\Debug\ConsolePusher.pdb
+C:\Work\Lab\PowerBI\ConsolePusher\ConsolePusher\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Work\Lab\PowerBI\ConsolePusher\ConsolePusher\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Work\Lab\PowerBI\ConsolePusher\ConsolePusher\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Work\Lab\PowerBI\ConsolePusher\ConsolePusher\obj\Debug\ConsolePusher.csprojResolveAssemblyReference.cache
+C:\Work\Lab\PowerBI\ConsolePusher\ConsolePusher\obj\Debug\ConsolePusher.exe
+C:\Work\Lab\PowerBI\ConsolePusher\ConsolePusher\obj\Debug\ConsolePusher.pdb
+C:\Work\Lab\PowerBI\ConsolePusher\ConsolePusher\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Lab\PowerBI\ConsolePusher\ConsolePusher\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\ConsolePusher\ConsolePusher\bin\Debug\ConsolePusher.exe.config
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\ConsolePusher\ConsolePusher\obj\Debug\ConsolePusher.exe
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\ConsolePusher\ConsolePusher\obj\Debug\ConsolePusher.pdb
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\ConsolePusher\ConsolePusher\bin\Debug\ConsolePusher.exe
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\ConsolePusher\ConsolePusher\bin\Debug\ConsolePusher.pdb
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\ConsolePusher\ConsolePusher\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\ConsolePusher\ConsolePusher\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\ConsolePusher\ConsolePusher\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\ConsolePusher\ConsolePusher\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\ConsolePusher\ConsolePusher\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Conferenze\SQL Saturday\460\Real Time Power BI\ConsolePusher\ConsolePusher\obj\Debug\ConsolePusher.csprojResolveAssemblyReference.cache
